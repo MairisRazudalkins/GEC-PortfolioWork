@@ -1,0 +1,2 @@
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\ConvertingFromFahrentheitToCelsius\Program7_converting\Debug\Program7_converting.exe
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\ConvertingFromFahrentheitToCelsius\Program7_converting\Debug\Program7_converting.pdb

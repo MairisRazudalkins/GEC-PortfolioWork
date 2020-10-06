@@ -1,0 +1,3 @@
+﻿  Program7_converting.cpp
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\ConvertingFromFahrentheitToCelsius\Program7_converting\Program7_converting.cpp(6,36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Program7_converting.vcxproj -> C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\ConvertingFromFahrentheitToCelsius\Program7_converting\Debug\Program7_converting.exe
