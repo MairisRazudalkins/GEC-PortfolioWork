@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Program19_OddsAndEvens", "Program19_OddsAndEvens.vcxproj", "{DF193E97-FA9B-4DAD-9400-196274C1E111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF193E97-FA9B-4DAD-9400-196274C1E111}.Debug|x64.ActiveCfg = Debug|x64
+		{DF193E97-FA9B-4DAD-9400-196274C1E111}.Debug|x64.Build.0 = Debug|x64
+		{DF193E97-FA9B-4DAD-9400-196274C1E111}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF193E97-FA9B-4DAD-9400-196274C1E111}.Debug|x86.Build.0 = Debug|Win32
+		{DF193E97-FA9B-4DAD-9400-196274C1E111}.Release|x64.ActiveCfg = Release|x64
+		{DF193E97-FA9B-4DAD-9400-196274C1E111}.Release|x64.Build.0 = Release|x64
+		{DF193E97-FA9B-4DAD-9400-196274C1E111}.Release|x86.ActiveCfg = Release|Win32
+		{DF193E97-FA9B-4DAD-9400-196274C1E111}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFDC0A9F-84E2-4570-AA52-E7B57B938D18}
+	EndGlobalSection
+EndGlobal

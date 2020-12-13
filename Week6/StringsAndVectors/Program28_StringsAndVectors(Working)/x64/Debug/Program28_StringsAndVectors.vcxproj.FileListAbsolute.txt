@@ -1,0 +1,2 @@
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week6\StringsAndVectors\Program28_StringsAndVectors(Working)\x64\Debug\Program28_StringsAndVectors.exe
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week6\StringsAndVectors\Program28_StringsAndVectors(Working)\x64\Debug\Program28_StringsAndVectors.pdb

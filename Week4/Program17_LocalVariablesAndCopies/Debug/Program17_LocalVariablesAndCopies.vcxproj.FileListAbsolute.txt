@@ -1,0 +1,2 @@
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week4\LocalVariablesAndCopies\Program17_LocalVariablesAndCopies\Debug\Program17_LocalVariablesAndCopies.exe
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week4\LocalVariablesAndCopies\Program17_LocalVariablesAndCopies\Debug\Program17_LocalVariablesAndCopies.pdb

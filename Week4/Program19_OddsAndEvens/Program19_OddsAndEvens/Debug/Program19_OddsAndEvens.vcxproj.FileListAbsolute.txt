@@ -1,0 +1,4 @@
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week4\LocalVariablesAndCopies\Program18_OddsAndEvens\Program19_OddsAndEvens\Debug\Program19_OddsAndEvens.exe
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week4\LocalVariablesAndCopies\Program18_OddsAndEvens\Program19_OddsAndEvens\Debug\Program19_OddsAndEvens.pdb
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week4\Program19_OddsAndEvens\Program19_OddsAndEvens\Debug\Program19_OddsAndEvens.exe
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week4\Program19_OddsAndEvens\Program19_OddsAndEvens\Debug\Program19_OddsAndEvens.pdb

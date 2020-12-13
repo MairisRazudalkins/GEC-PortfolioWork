@@ -1,0 +1,4 @@
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week2\WeatherMenu\Program11_WeatherMenu\Debug\Program11_WeatherMenu.exe
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week2\WeatherMenu\Program11_WeatherMenu\Debug\Program11_WeatherMenu.pdb
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week2\Program11_WeatherMenu\Debug\Program11_WeatherMenu.exe
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week2\Program11_WeatherMenu\Debug\Program11_WeatherMenu.pdb

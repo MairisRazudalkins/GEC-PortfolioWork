@@ -1,0 +1,4 @@
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week6\StringManipulation\Program27_StringManipulation\Debug\Program27_StringManipulation.exe
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week6\StringManipulation\Program27_StringManipulation\Debug\Program27_StringManipulation.pdb
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week6\Program27_StringManipulation\Debug\Program27_StringManipulation.exe
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week6\Program27_StringManipulation\Debug\Program27_StringManipulation.pdb

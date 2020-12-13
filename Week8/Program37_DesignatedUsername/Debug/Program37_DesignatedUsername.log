@@ -1,0 +1,3 @@
+﻿  Program37_DesignatedUsername.cpp
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week8\Program37_DesignatedUsername\Program37_DesignatedUsername.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Program37_DesignatedUsername.vcxproj -> C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week8\Program37_DesignatedUsername\Debug\Program37_DesignatedUsername.exe

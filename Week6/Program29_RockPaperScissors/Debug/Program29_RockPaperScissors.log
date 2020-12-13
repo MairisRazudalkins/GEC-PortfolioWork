@@ -1,0 +1,3 @@
+﻿  Program29_RockPaperScissors.cpp
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week6\RockPaperScissors\Program29_RockPaperScissors\Program29_RockPaperScissors.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Program29_RockPaperScissors.vcxproj -> C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week6\RockPaperScissors\Program29_RockPaperScissors\Debug\Program29_RockPaperScissors.exe

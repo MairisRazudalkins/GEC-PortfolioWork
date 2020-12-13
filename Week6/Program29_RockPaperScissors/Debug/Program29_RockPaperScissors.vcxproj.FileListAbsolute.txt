@@ -1,0 +1,2 @@
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week6\RockPaperScissors\Program29_RockPaperScissors\Debug\Program29_RockPaperScissors.exe
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week6\RockPaperScissors\Program29_RockPaperScissors\Debug\Program29_RockPaperScissors.pdb

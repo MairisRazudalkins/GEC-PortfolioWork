@@ -1,0 +1,2 @@
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week4\LocalVariablesAndCopies\Program18_SmallestNumber\Program18_SmallestNumber\Debug\Program18_SmallestNumber.exe
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week4\LocalVariablesAndCopies\Program18_SmallestNumber\Program18_SmallestNumber\Debug\Program18_SmallestNumber.pdb

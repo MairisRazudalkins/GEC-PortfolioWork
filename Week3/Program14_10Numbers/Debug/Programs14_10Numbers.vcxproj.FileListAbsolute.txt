@@ -1,0 +1,4 @@
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week3\10Numbers\Programs14_10Numbers\Debug\Programs14_10Numbers.exe
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week3\10Numbers\Programs14_10Numbers\Debug\Programs14_10Numbers.pdb
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week3\Program14_10Numbers\Debug\Programs14_10Numbers.exe
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week3\Program14_10Numbers\Debug\Programs14_10Numbers.pdb

@@ -1,0 +1,4 @@
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week3\StarryOutput\Program15_StarryOutput\Debug\Program15_StarryOutput.exe
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week3\StarryOutput\Program15_StarryOutput\Debug\Program15_StarryOutput.pdb
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week3\Program15_StarryOutput\Debug\Program15_StarryOutput.exe
+C:\Users\mairis\OneDrive - Staffordshire University\GitHub\GEC\Portfolio\Week3\Program15_StarryOutput\Debug\Program15_StarryOutput.pdb
